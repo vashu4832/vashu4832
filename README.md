@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN stack dev | Backend-focused | Into DSA, system design & scalable systems | Targeting product-based roles
+Full Stack Developer | Backend-focused | Into DSA, system design & scalable systems | Targeting product-based roles
 
 
 ## 🌐 Socials:
